@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Version=0.1
+Name=External Storage Manager
+GenericName=Indicator
+NoDisplay=true
+Comment=Indicator to manage devices
+Icon=external-storage-manager
+Exec=external-storage-manager
+Terminal=false
+Categories=GNOME;GTK;
+StartupNotify=true
+X-GNOME-Autostart-enabled=true
+X-GNOME-Gettext-Domain=external-storage-manager

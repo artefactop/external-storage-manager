@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2018 Your Name <you@email.com> -->
+<component type="desktop">
+  <id>com.github.yourusername.external-extorage-manager</id>
+  <metadata_license>CC0</metadata_license>
+  <name>Storage Manager</name>
+  <summary>Manage your external devices from indicator</summary>
+  <description>
+    <p>TDB.</p>
+  </description>
+</component>
